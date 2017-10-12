@@ -1,0 +1,11 @@
+{ "actions":
+  [
+    { "id": 0, "name": "Still (静止)", "duration": 45},
+    { "id": 1, "name": "Running (跑步)", "duration": 45},
+    { "id": 2, "name": "Jumping Upward (向上跳)", "duration": 45},
+    { "id": 3, "name": "Upstairs (上楼梯)", "duration": 45},
+    { "id": 4, "name": "Downstairs (下楼梯)", "duration": 45},
+    { "id": 5, "name": "Cycling (骑车)", "duration": 45},
+    { "id": 6, "name": "Walking 50m (走路50米)", "duration": 60}
+  ]
+}
